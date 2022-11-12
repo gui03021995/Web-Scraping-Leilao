@@ -1,4 +1,4 @@
-# web-scraping-Cursos
+# web-scraping-Leilao
 
 Realizado estudo com a linguagem Python com enfase em Web scraping - "raspagem de dados". 
 
